@@ -8,7 +8,7 @@ I made this game during the Udemy course called "[Unity C# Mobile Game Developme
 I wanted to review my basics, adapt my knowledge of game programming to mobile game programming so that I could then create my own games later.
 
 ## Preview
-<img src="Images/Asteroid_Avoider.gif" alt="Simple Driving Game Preview" width="50%"/>
+https://github.com/carodak/Asteroid-Avoider/assets/25282715/3d6296ee-beba-4caf-ab66-1f0478588a32
 
 ## Tech used
 <b>Built with</b>
