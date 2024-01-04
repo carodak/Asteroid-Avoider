@@ -1,7 +1,5 @@
 # Asteroid-Avoider
 
-[UNDER DEVELOPMENT]
-
 A small game where you play as a ship and have to avoid astroids.
 
 I made this game during the Udemy course called "[Unity C# Mobile Game Development - Make 3 Games From Scratch](https://www.udemy.com/course/unity-mobile/)".
@@ -17,11 +15,21 @@ I wanted to review my basics, adapt my knowledge of game programming to mobile g
 - Unity 2020.3
 - C#
 
-## What I learn
-
+## What I learned
+- Unity Ads
 
 ## Features
+🚀 Spacefaring Adventure: Navigate your spaceship through an obstacle-filled field.
 
+🔄 Endless Challenge: Test your skills with endless gameplay, aiming for the highest score.
+
+💔 Quick Restart: Instantly restart the game upon collision, points reset to zero.
+
+💼 Ad Continuation: Watch an ad to continue the game without losing points.
+
+📈 High Score Tracking: Save and showcase your best scores.
+
+📋 Sleek Menu Design: User-friendly interface for seamless navigation.
 
 ## Installation
 1. Download this github project
